@@ -18,4 +18,7 @@ def divide(x, y):
 
 # This function divides two numbers
 def modulodivision(x, y):
-   pass
+   return x / y
+
+def square(x):
+   return x*x
